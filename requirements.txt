@@ -1,0 +1,4 @@
+echo "pandas" >> requirements.txt
+echo "numpy" >> requirements.txt
+echo "matplotlib" >> requirements.txt
+echo "seaborn" >> requirements.txt
