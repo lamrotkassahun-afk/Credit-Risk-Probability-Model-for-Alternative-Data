@@ -2,3 +2,12 @@ echo "pandas" >> requirements.txt
 echo "numpy" >> requirements.txt
 echo "matplotlib" >> requirements.txt
 echo "seaborn" >> requirements.txt
+pandas
+numpy
+scikit-learn
+xgboost
+mlflow
+fastapi
+uvicorn
+python-multipart
+pydantic
